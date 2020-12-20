@@ -8,8 +8,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const slim = {
-  pronouns: "slim" | "he",
+const slimane = {
+  pseudo: "slim" && "Chuckles" | "Angelic",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, React Native, Redux, Node, , Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
