@@ -8,7 +8,7 @@
 
 ```javascript
 const slim = {
-  pronouns: "slim" | "",
+  pronouns: "slim" | "he",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, React Native, Redux, Node, , Styled-Components, Jest, Docker, kubernetes],
   architecture: ["microservices", "event-driven", "design system pattern"],
