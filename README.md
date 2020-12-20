@@ -10,7 +10,7 @@
 const slim = {
   pronouns: "slim" | "he",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Redux, Node, , Styled-Components, Jest, Docker, kubernetes],
+  tools: [React, React Native, Redux, Node, , Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing every challenge focused on react and typescript"
 }
