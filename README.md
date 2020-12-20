@@ -1,6 +1,7 @@
 <h2> Hi, I'm Slimane Kadour! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="200" height="300">
-<p><em>Frontend Developer at <a href="https://www.nbc.ca/">National Banque Of Canada</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em> Master's degree, Software Enginnering at <a href="https://www.usherbrooke.ca"> Sherbrooke University, Canada </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </br>Frontend Developer at <a href="https://www.nbc.ca"> National Banque Of Canada <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
