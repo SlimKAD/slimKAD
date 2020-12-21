@@ -11,7 +11,7 @@
 const slimane = {
   pseudo: "slim" && "Chuckles" | "Angelic",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Redux, Node, , Styled-Components, Jest, Docker],
+  tools: [React, React Native, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "Any fool can write code that a computer can understand. 
   Good programmers write code that humans can understand." ― Martin Fowler
